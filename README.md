@@ -4,21 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Olá+%2C+eu+sou+a+Ágatha+%F0%9F%8C%B8;Estudante+de+Ciência+da+Computação;Focada+em+Java+%E2%98%95;Bem-vindo+ao+meu+perfil+%F0%9F%92%96">
 </p>
 
-<p align="center">
-💻 Estudante de Ciência da Computação <br>
-🌸 Focada em desenvolvimento Back-end com Java <br>
-🚀 Em busca da minha primeira oportunidade em TI
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 ## 🌷 Sobre mim
 
-🎓 Atualmente curso Ciência da Computação  
-📚 Estou focada em aprender cada vez mais sobre desenvolvimento de software  
-☕ Minha principal linguagem é Java  
-🗄️ Também tenho conhecimentos em MySQL, C#, HTML e CSS  
-✨ Gosto de criar projetos para praticar lógica, orientação a objetos e banco de dados  
+🌸 Focada em desenvolvimento Back-end com Java  
+🎓 Estudante de Ciência da Computação  
+🚀 Em busca da minha primeira oportunidade na área de TI  
+🗄️ Conhecimentos em MySQL, C#, HTML e CSS  
+✨ Gosto de criar projetos para praticar lógica de programação, orientação a objetos e banco de dados  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
@@ -74,7 +69,9 @@ https://github.com/Agathapsm/Projeto-Ecommerce
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil ✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Obrigada+por+visitar+meu+perfil+%F0%9F%92%96">
+</p>
 
 </div>
 
