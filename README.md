@@ -11,7 +11,7 @@
 
 🌸 Focada em desenvolvimento Back-end com Java  
 🎓 Estudante de Ciência da Computação  
-🚀 Em busca da minha primeira oportunidade na área de TI  
+🚀 Em busca da minha primeira oportunidade na área de Desenvolvimento de Software 
 🗄️ Conhecimentos em MySQL, C#, HTML e CSS  
 ✨ Gosto de criar projetos para praticar lógica de programação, orientação a objetos e banco de dados  
 
