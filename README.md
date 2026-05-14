@@ -64,6 +64,15 @@ Projeto de banco de dados para gerenciamento de uma ONG de proteção animal, en
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
+# 📊 Top Languages
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agathapsm&layout=compact&theme=dracula"/>
+
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
+
 # 🌺 Conecte-se comigo
 
 <div align="center">
