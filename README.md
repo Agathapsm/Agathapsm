@@ -1,66 +1,74 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Olá+%2C+eu+sou+a+Ágatha+%F0%9F%8C%B8;Estudante+de+Ciência+da+Computação;Focada+em+Java+%E2%98%95;Bem-vindo+ao+meu+perfil+%F0%9F%92%96">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Olá%2C+eu+sou+a+Ágatha+🌸;Estudante+de+Ciência+da+Computação;Focada+em+Back-end+com+Java+☕;Bem-vindo+ao+meu+perfil+💖">
 </p>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
-
-## 🌷 Sobre mim
-
-🌸 Focada em desenvolvimento Back-end com Java  
-🎓 Estudante de Ciência da Computação  
-🚀 Em busca da minha primeira oportunidade na área de Desenvolvimento de Software  
-🗄️ Conhecimentos em Java, MySQL, C#, HTML, CSS, JavaScript e Git  
-✨ Gosto de criar projetos para praticar lógica de programação, orientação a objetos e banco de dados  
-💖 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
-
-## 💖 Tecnologias
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,git,github" />
+  
+### 🌷 Transformando aprendizado em projetos reais
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
-## 🌸 Projetos em destaque
+# 🌸 Sobre mim
 
-### 🧸 Projeto Herança
-Projeto desenvolvido em Java utilizando os conceitos de Programação Orientada a Objetos, como herança, encapsulamento e polimorfismo.
-
-🔗 Link:  
-https://github.com/Agathapsm/Projeto_Heranca
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
-
-### 🛍️ Projeto Ecommerce
-Sistema de ecommerce desenvolvido para praticar estruturação de código, lógica de programação e organização de classes.
-
-🔗 Link:  
-https://github.com/Agathapsm/Projeto-Ecommerce
+💖 Me chamo Ágatha Paiva  
+🎓 Estudante de Ciência da Computação  
+☕ Focada em desenvolvimento Back-end com Java  
+🚀 Em busca da minha primeira oportunidade na área de Desenvolvimento de Software  
+📚 Sempre estudando Programação Orientada a Objetos, banco de dados e lógica de programação  
+✨ Gosto de criar projetos para praticar conceitos importantes e evoluir como desenvolvedora  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Agathapsm&theme=dracula"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Agathapsm&theme=dracula"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Agathapsm&theme=dracula"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
-
-
-## 🌺 Conecte-se comigo
+# 💻 Tecnologias & Ferramentas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%C3%A1gatha-paiva-97574b251/" target="_blank" rel="noopener noreferrer">
+<img src="https://skillicons.dev/icons?i=java,mysql,cs,html,css,js,git,github,vscode" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
+
+# 🌸 Projetos em destaque
+
+## 🧸 Projeto Herança
+Projeto desenvolvido em Java com foco em Programação Orientada a Objetos, utilizando conceitos como herança, encapsulamento, polimorfismo e sobrescrita de métodos.
+
+🔗 https://github.com/Agathapsm/Projeto_Heranca
+
+---
+
+## 💰 Folha de Pagamentos
+Sistema desenvolvido em Java para praticar conceitos de POO através do cálculo de salários e diferentes tipos de funcionários.
+
+🔗 https://github.com/Agathapsm/Folha-de-Pagamentos
+
+---
+
+## 🛍️ Projeto Ecommerce
+Projeto de ecommerce desenvolvido para praticar organização de classes, estruturação de código e lógica de programação.
+
+🔗 https://github.com/Agathapsm/Projeto-Ecommerce
+
+---
+
+## 🐾 Banco de Dados ONG de Animais
+Projeto de banco de dados para gerenciamento de uma ONG de proteção animal, envolvendo controle de espécies, vacinação, adoção e histórico clínico.
+
+🔗 https://github.com/Agathapsm/Banco-de-Dados-ONG
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
+
+# 🌺 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/%C3%A1gatha-paiva-97574b251/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Ágatha%20Paiva-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -70,9 +78,7 @@ https://github.com/Agathapsm/Projeto-Ecommerce
 
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Obrigada+por+visitar+meu+perfil+%F0%9F%92%96">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=F8BBD0&center=true&vCenter=true&lines=Obrigada+por+visitar+meu+perfil+💖;Volte+sempre+🌸">
 
 </div>
 
