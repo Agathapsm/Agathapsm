@@ -49,10 +49,10 @@ Sistema desenvolvido em Java para praticar conceitos de POO através do cálculo
 
 ---
 
-## 🛍️ Projeto Ecommerce
-Projeto de ecommerce desenvolvido para praticar organização de classes, estruturação de código e lógica de programação.
+### 🎨 Interface em Projeto Formas Geométricas
+Projeto desenvolvido em Java com foco na prática de interfaces e conceitos de Programação Orientada a Objetos, utilizando formas geométricas e cálculo de área/perímetro.
 
-🔗 https://github.com/Agathapsm/Projeto-Ecommerce
+🔗 https://github.com/Agathapsm/Interface_em_Projeto_Formas_Geometricas
 
 ---
 
