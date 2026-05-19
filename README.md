@@ -49,7 +49,7 @@ Sistema desenvolvido em Java para praticar conceitos de POO através do cálculo
 
 ---
 
-### 🎨 Interface em Projeto Formas Geométricas
+## 🎨 Interface em Projeto Formas Geométricas
 Projeto desenvolvido em Java com foco na prática de interfaces e conceitos de Programação Orientada a Objetos, utilizando formas geométricas e cálculo de área/perímetro.
 
 🔗 https://github.com/Agathapsm/Interface_em_Projeto_Formas_Geometricas
