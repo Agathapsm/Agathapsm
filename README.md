@@ -40,28 +40,27 @@ Projeto desenvolvido em Java com foco em Programação Orientada a Objetos, util
 
 🔗 https://github.com/Agathapsm/Projeto_Heranca
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 ## 💰 Folha de Pagamentos
 Sistema desenvolvido em Java para praticar conceitos de POO através do cálculo de salários e diferentes tipos de funcionários.
 
 🔗 https://github.com/Agathapsm/Folha-de-Pagamentos
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 ## 🎨 Interface em Projeto Formas Geométricas
 Projeto desenvolvido em Java com foco na prática de interfaces e conceitos de Programação Orientada a Objetos, utilizando formas geométricas e cálculo de área/perímetro.
 
 🔗 https://github.com/Agathapsm/Interface_em_Projeto_Formas_Geometricas
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 ## 🐾 Banco de Dados ONG de Animais
 Projeto de banco de dados para gerenciamento de uma ONG de proteção animal, envolvendo controle de espécies, vacinação, adoção e histórico clínico.
 
 🔗 https://github.com/Agathapsm/Banco-de-Dados-ONG
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 # 📊 Top Languages
