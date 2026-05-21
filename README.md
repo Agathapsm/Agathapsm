@@ -35,10 +35,10 @@
 
 # 🌸 Projetos em destaque
 
-## 🧸 Projeto Herança
-Projeto desenvolvido em Java com foco em Programação Orientada a Objetos, utilizando conceitos como herança, encapsulamento, polimorfismo e sobrescrita de métodos.
+### ⚡ Lambda
+Projeto focado em expressões Lambda, Stream API, Filter, Map e Reduce utilizando Java moderno.
 
-🔗 https://github.com/Agathapsm/Projeto_Heranca
+🔗 https://github.com/Agathapsm/Lambda
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
