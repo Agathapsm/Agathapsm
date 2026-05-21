@@ -35,7 +35,7 @@
 
 # 🌸 Projetos em destaque
 
-### ⚡ Lambda
+## ⚡ Lambda
 Projeto focado em expressões Lambda, Stream API, Filter, Map e Reduce utilizando Java moderno.
 
 🔗 https://github.com/Agathapsm/Lambda
