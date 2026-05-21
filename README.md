@@ -67,19 +67,22 @@ Projeto de banco de dados para gerenciamento de uma ONG de proteção animal, en
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agathapsm&layout=compact&theme=dracula"/>
+<a href="https://github.com/Agathapsm">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Agathapsm&theme=omni"/>
+</a>
 
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
 # 🌺 Conecte-se comigo
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/%C3%A1gatha-paiva-97574b251/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Ágatha%20Paiva-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://custom-icon-badges.demolab.com/badge/-Ágatha%20Paiva-F48FB1?style=for-the-badge&logo=linkedin-white&logoColor=white"/>
 </a>
-
+<br><br>
+<a href="agatha.simoesmoreira@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
