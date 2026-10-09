@@ -59,7 +59,7 @@ Projeto desenvolvido em Java com foco na prática de interfaces e conceitos de P
 ## 🐾 Banco de Dados ONG de Animais
 Projeto de banco de dados para gerenciamento de uma ONG de proteção animal, envolvendo controle de espécies, vacinação, adoção e histórico clínico.
 
-🔗 https://github.com/Agathapsm/Banco-de-Dados-ONG
+🔗 https://github.com/Agathapsm/Modelagem-DB-ONG-Animais
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=2"/>
 
